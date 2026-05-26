@@ -5,7 +5,7 @@
 [![Groq](https://img.shields.io/badge/Groq-LLM-orange)](https://groq.com)
 [![Track](https://img.shields.io/badge/Track-Agent_for_Good-green)](https://devpost.com)
 
-> **Slack Agent Builder Challenge 2025 — Agent for Good Track**  
+> **Slack Agent Builder Challenge 2026 — Agent for Good Track**  
 > Empowering nonprofit and government emergency response teams with AI-orchestrated crisis coordination inside Slack.
 
 ---
